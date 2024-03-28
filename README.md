@@ -168,7 +168,7 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 
-Based on Data Analysis, we’d suggest you consider prioritizing adding new DVDs priced at $4.99 and $2.99 to your inventory. DVDs priced at $0.99 should be de-prioritized in considering new inventory, as they are the least popular. The existing $0.99 films should still be promoted, in order to attract customers who are drawn in by low prices. Among your top 10 customers, who’ve spent around $150-200 renting with you, family is the most popular film category. In your next promotion event, we’d recommend highlighting family movies, and foreign, horror, sci-fi, and documentaries, which were also popular choices. 
+Based on Data Analysis, I’d suggest you consider prioritizing adding new DVDs priced at $4.99 and $2.99 to your inventory. DVDs priced at $0.99 should be de-prioritized in considering new inventory, as they are the least popular. The existing $0.99 films should still be promoted, in order to attract customers who are drawn in by low prices. Among your top 10 customers, who’ve spent around $150-200 renting with you, family is the most popular film category. In your next promotion event, I’d recommend highlighting family movies, and foreign, horror, sci-fi, and documentaries, which were also popular choices. 
 
 ### Limitations
 
