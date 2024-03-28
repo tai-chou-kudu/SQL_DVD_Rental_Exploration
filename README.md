@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
-
+ 
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of a DVD rental company. By analyzing various aspects of the sales data, I seek to pinpoint specific patterns within the sales data and formulate data-driven recommendations based on these findings.
